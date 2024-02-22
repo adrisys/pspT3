@@ -1,9 +1,9 @@
-package org.cantillana;
+package org.cantillana.act1;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
-public class Actividad1 {
+public class Main {
     public static void main(String[] args) {
         if (args.length > 0) {
             try {
