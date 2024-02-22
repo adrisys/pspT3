@@ -1,0 +1,9 @@
+
+m	java:S1172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¾Üœ8œÕÌ”İ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñıƒ¼8ÕÌ”İ1
+f
+java:S20954"DUse try-with-resources or close this "Socket" in a "finally" clause.(êĞïÀøÿÿÿÿ8¨ÕÌ”İ1
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8«ÕÌ”İ1
+k
+java:S32527"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8¯ÕÌ”İ1

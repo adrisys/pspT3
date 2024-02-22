@@ -1,0 +1,10 @@
+
+i
+java:S1192M"GDefine a constant instead of duplicating this literal "Tahoma" 7 times.(†ÃÅ˜ûÿÿÿÿ8Èƒî”İ1
+m	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÌÔ8Èƒî”İ1
+r	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´“±úÿÿÿÿ8Èƒî”İ1
+f
+java:S20958"DUse try-with-resources or close this "Socket" in a "finally" clause.(‚í‹åùÿÿÿÿ8ßƒî”İ1
+t
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÇÙ¬ÿÿÿÿÿ8äƒî”İ1
+K	java:S108¶")Either remove or fill this block of code.(é–³öûÿÿÿÿ8ğƒî”İ1

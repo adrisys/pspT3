@@ -1,0 +1,5 @@
+
+k	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž½›’øÿÿÿÿ
+g
+java:S2095	"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(”¿È•ýÿÿÿÿ

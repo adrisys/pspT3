@@ -1,0 +1,15 @@
+
+m
+java:S1192C"WDefine a constant instead of duplicating this literal "~~~~~~~~ INFO ~~~~~~~~" 5 times.(Ï‹ß³
+b
+java:S1192S"GDefine a constant instead of duplicating this literal "Tahoma" 7 times.(†ÃÅ˜ûÿÿÿÿ
+f	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÌÔ
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´“±úÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·èÖúÿÿÿÿÿ
+f
+java:S20956"DUse try-with-resources or close this "Socket" in a "finally" clause.(‚í‹åùÿÿÿÿ8Áèå”İ1
+h
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(©ÏªÛ
+d
+java:S3252H"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+D	java:S108È")Either remove or fill this block of code.(é–³öûÿÿÿÿ

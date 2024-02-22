@@ -1,0 +1,6 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Şûúşÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "cli".(ê¨Ñşıÿÿÿÿ
+>
+java:S2140")Use "java.util.Random.nextInt()" instead.(ú
